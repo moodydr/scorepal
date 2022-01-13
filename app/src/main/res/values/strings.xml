@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab2PlayerHighScores</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="settings">Settings</string>
+    <string name="record_deleted">Record Deleted</string>
+    <string name="no_match">No Match Found</string>
+    <string name="load_data">Load Data</string>
+    <string name="players_list_here">Players list here</string>
+    <string name="add">ADD</string>
+    <string name="find">FIND</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="player_id">Player ID</string>
+    <string name="player_name">Player Name</string>
+    <string name="record_updated">Record Updated</string>
+    <string name="not_empty">Must not be empty</string>
+</resources>
